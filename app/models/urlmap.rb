@@ -1,0 +1,2 @@
+class Urlmap < ApplicationRecord
+end
